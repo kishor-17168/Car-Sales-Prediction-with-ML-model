@@ -5,8 +5,8 @@ Used car price prediction using various machine learning models like Linear Regr
 
 # Used Car Price Prediction Project
 
-## 📑 Table of Contents
-1. [📘 Introduction](#introduction)  
+# 📑 Table of Content
+-[Introduction](#introduction)  
 2. [📌 Problem Statement & Objectives](#problem-statement--objectives)  
 3. [🛠️ Tools and Technologies](#tools-and-technologies)  
 4. [📂 Dataset Description](#dataset-description)  
@@ -20,7 +20,7 @@ Used car price prediction using various machine learning models like Linear Regr
 
 ---
 
-## 1. 📘 Introduction
+## Introduction
 Your introduction text here.
 
 ## 2. 📌 Problem Statement & Objectives
@@ -60,6 +60,36 @@ Click [here](#introduction) to jump.
 
 ## Test Header
 This is where the link goes.
+
+
+### Contents:
+  - [Categories](#categories)
+      - [GitHub Actions 🤖](#github-actions-)
+      - [Game Mode 🚀](#game-mode-)
+      - [Code Mode 👨🏽‍💻](#code-mode-)
+      - [Dynamic Realtime 💫](#dynamic-realtime-)
+      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
+      - [Descriptive 🗒](#descriptive-)
+      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
+      - [Typing.. Mode 🎰](#typing-mode-)
+      - [Anime 👾](#anime-)
+      - [Minimalistic ✨](#minimalistic-)
+      - [GIFS 👻](#gifs-)
+      - [Just Images 🎭](#just-images-)
+      - [Badges 🎫](#badges-)
+      - [Fancy Fonts 🖋](#fancy-fonts-)
+      - [Icons 🎯](#icons-)
+      - [Retro 😎](#retro-)
+  - [Tools](#tools)
+  - [Articles](#articles)
+  - [Video Tutorials](#tutorials)
+  - [Contribute](#contribute)
+  - [License](#license)
+
+
+## Categories
+
+#### GitHub Actions 🤖
 
 
 
