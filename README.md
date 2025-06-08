@@ -270,6 +270,6 @@ These outcomes demonstrate that machine learning can effectively predict used ca
 
 **[Kishor Marandy]**  
 📧 [christoferkishor@gmail.com]  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/your-profile/)  
-💻 [GitHub Profile](https://github.com/your-github-username)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/kishor-marandy/)  
+💻 [GitHub Profile](https://github.com/kishor-17168)
 
