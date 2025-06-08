@@ -118,6 +118,8 @@ The dataset was downloaded from an open-source internet resource. While it is no
 ```python
 car_dataset.isnull().sum()
 ```
+![Alt Text](https://github.com/kishor-17168/Car-Sales-Prediction-with-ML-model/blob/main/null%20values.png?raw=true)
+
 #### 🧹 Drop unnecessary columns
 
 ```python
