@@ -49,10 +49,10 @@ The problem statement for this project is to predict the price of a used car bas
 
 Follow the steps below to run the project on your local machine:
 
-### 1. Clone the Repository
+### 1. Download the files from here 
 ```bash
-git clone https://github.com/kishor-17168/used-car-price-prediction.git
-cd used-car-price-prediction
+https://github.com/kishor-17168/Car-Sales-Prediction-with-ML-model.git
+
 ```
 
 ### 2. Install Dependencies
