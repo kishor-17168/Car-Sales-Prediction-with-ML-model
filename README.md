@@ -177,7 +177,7 @@ This analysis helped identify important features and guided the feature engineer
 
 ---
 
-For the full code, detailed plots, and analysis, see the [Exploratory Data Analysis Notebook](notebooks/Used_Car_Price_Prediction_EDA.ipynb).
+For the full code, detailed plots, and analysis, see the [Exploratory Data Analysis Notebook](UsedCarPricePrediction.ipynb).
 
 
 ### 6.3- Feature Engineering
